@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-box/static/css/main.776c097d.chunk.css",
+    "main.js": "/color-box/static/js/main.e49779e8.chunk.js",
+    "main.js.map": "/color-box/static/js/main.e49779e8.chunk.js.map",
+    "runtime~main.js": "/color-box/static/js/runtime~main.47c4d061.js",
+    "runtime~main.js.map": "/color-box/static/js/runtime~main.47c4d061.js.map",
+    "static/js/2.1ea1d828.chunk.js": "/color-box/static/js/2.1ea1d828.chunk.js",
+    "static/js/2.1ea1d828.chunk.js.map": "/color-box/static/js/2.1ea1d828.chunk.js.map",
+    "index.html": "/color-box/index.html",
+    "precache-manifest.6db669879189a55046420ca9e1c0a281.js": "/color-box/precache-manifest.6db669879189a55046420ca9e1c0a281.js",
+    "service-worker.js": "/color-box/service-worker.js",
+    "static/css/main.776c097d.chunk.css.map": "/color-box/static/css/main.776c097d.chunk.css.map"
+  }
+}
