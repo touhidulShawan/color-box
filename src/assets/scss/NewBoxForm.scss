@@ -1,0 +1,35 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & > div {
+    margin-right: 10px;
+  }
+
+  label {
+    margin-right: 5px;
+  }
+
+  input[type="text"] {
+    border: 2px solid slateblue;
+  }
+
+  button {
+    background: slategray;
+    padding: 5px 18px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 13px;
+    border: 2px solid slategray;
+    cursor: pointer;
+    box-shadow: 6px 4.75px 2.75px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease-in-out;
+
+    &:hover {
+      border-color: coral;
+      background: white;
+      color: slategray;
+    }
+  }
+}
